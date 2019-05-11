@@ -1,0 +1,3 @@
+rootProject.name = 'insulink_3200'
+
+include ':app'

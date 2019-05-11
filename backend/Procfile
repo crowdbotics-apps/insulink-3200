@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT insulink_3200.wsgi:application
